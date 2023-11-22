@@ -1,0 +1,16 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+}
+
+body {
+   background-color: lightgreen;
+   
+}
+
+.title {
+   padding-left: 20px;
+   color: rgb(61, 57, 57)
+}
